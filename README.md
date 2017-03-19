@@ -1,0 +1,1 @@
+Notice that the README has changed. Since this is now an npm project, the npm install command can be used to install all dependencies. That's worth noting in the README.
