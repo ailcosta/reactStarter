@@ -1,1 +1,33 @@
-Notice that the README has changed. Since this is now an npm project, the npm install command can be used to install all dependencies. That's worth noting in the README.
+My Project
+---
+ 
+Welcome.
+ 
+ 
+ 
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
+ 
+ 
+ 
+Setup
+---
+ 
+```
+npm install
+```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
+```
